@@ -132,8 +132,35 @@ header nav#main-nav ul li a span {
 	line-height: 19.2px;
 }
 header nav#main-nav ul li a:hover{color: #3e0d09;}
-header{}
-header{}
+.banner{background: #3e0d09;padding: 30px 20px 70px;overflow: hidden;}
+.banner .intro{width: 520px;float: left;margin-right: 30px;}
+.banner .intro h1 {
+	font-family: Georgia;
+	font-size: 46px;
+	color: #FFF;
+	line-height: 46px;
+	margin-top: 0px;
+}
+.banner .intro p {
+	margin: 0;
+	font-family: Verdana;
+	font-size: 14px;
+	line-height: 22.4px;
+	color: #fff;
+}
+.banner .schools{width: 410px;float: left;}
+.banner .schools img {
+	margin-bottom: 10px;
+	margin-right: 5px;
+}
+.banner .schools img:nth-child(4n) {
+	margin-right: 0px;
+}
+.banner{}
+.banner{}
+.banner{}
+.banner{}
+.banner{}
 
 
 
