@@ -201,6 +201,61 @@ header nav#main-nav ul li a:hover{color: #3e0d09;}
 	line-height: 18px;
 	color: #666666;
 }
+.footer {
+	background: #CEC6A2 none repeat scroll 0% 0%;
+	padding: 0px 20px 30px;
+	overflow: hidden;
+}
+.footer .contact{width: 350px;float: left;margin-right: 40px;overflow: hidden;}
+.footer .contact h4 {
+	font-family: Georgia;
+	font-size: 22px;
+	line-height: 22px;
+	color: #333;
+	font-weight: 300;
+	border-bottom: 1px solid #807C6A;
+	padding-bottom: 14px;
+	margin-bottom: 0px;
+}
+.input-text{width: 170px;float: left;padding: 0;margin: 20px 0px;margin-right: 10px;}
+input, textarea{border: 0;}
+input[type="submit"], input[type="reset"], label{font-family: Verdana;font-size: 13px;line-height: 13px;color: #666666;}
+.input-text input[type="text"]{height: 24px;}
+.input-text:nth-child(2n){margin-right: 0px;}
+textarea{width: 100%;height: 88px;margin-bottom: 15px;}
+input[type="submit"], input[type="reset"]{padding: 10px;background: #f7f7f7;margin-right: 15px;}
+.footer .right-block{width: 570px;float: left;}
+.footer .right-block .single {
+	width: 180px;
+	margin-right: 15px;
+	float: left;
+	margin-bottom: 13px;
+}
+.footer .right-block .single:nth-child(3n){margin-right: 0px;}
+.footer .right-block .single h4 {
+	font-family: Georgia;
+	font-size: 22px;
+	line-height: 22px;
+	color: #333;
+	font-weight: 300;
+	border-bottom: 1px solid #807c6a;
+	padding-bottom: 14px;
+	margin-bottom: 0px;
+}
+.footer .right-block .single p {
+	font-family: Verdana;
+	font-size: 12px;
+	line-height: 16.8px;
+	color: #333;
+	padding-right: 52px;
+}
+.footer .right-block .subscrib label{padding: 6px 10px;background: #e4dfcb;font-family: Verdana;font-size: 12px;line-height: 12px;color: #666666;}
+.footer .right-block .subscrib input[type="text"]{width: 245px;height: 25px;}
+.footer .right-block .subscrib input[type="submit"]{text-transform: uppercase;padding: 5px 10px;margin: 0;font-size: 13px;line-height: 14px;}
+footer{padding: 15px 20px;background: #250705;overflow: hidden;}
+footer .left, footer .right{width: 50%;float: left;font-family: Verdana;font-size: 12px;line-height: 12px;color: #fff;}
+footer .left{text-align: left;}
+footer .right{text-align: right;}
 
 
 
